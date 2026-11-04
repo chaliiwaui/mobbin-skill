@@ -8,11 +8,11 @@ This skill is **plain markdown** — there is no executable code shipped at runt
 
 ## Reporting a vulnerability
 
-Open a private report via GitHub's [Security Advisories](https://github.com/makindajack/mobbin-skill/security/advisories/new) tab on this repository.
+Open a private report via GitHub's [Security Advisories](https://github.com/chaliiwaui/mobbin-skill/security/advisories/new) tab on this repository.
 
 If the issue is a Mobbin Terms-of-Service concern (not a vulnerability in this skill), please:
 
-- Open a **public** issue using the [Bug report](https://github.com/makindajack/mobbin-skill/issues/new) template, **and**
+- Open a **public** issue using the [Bug report](https://github.com/chaliiwaui/mobbin-skill/issues/new) template, **and**
 - Independently report any abuse of the Mobbin service to [Mobbin support](https://mobbin.com/support).
 
 Please do not file public GitHub issues for credential leaks or other secrets you spot in the repo — message the maintainer directly via a Security Advisory so the secret can be revoked first.

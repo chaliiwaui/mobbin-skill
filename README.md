@@ -6,7 +6,7 @@
 [![Works with Claude Code](https://img.shields.io/badge/Claude%20Code-supported-d97706?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
 [![Works with Cursor](https://img.shields.io/badge/Cursor-supported-000000?logo=cursor&logoColor=white)](https://cursor.com)
 [![Works with VS Code Copilot](https://img.shields.io/badge/VS%20Code%20Copilot-supported-007ACC?logo=githubcopilot&logoColor=white)](https://code.visualstudio.com/docs/copilot/overview)
-[![GitHub stars](https://img.shields.io/github/stars/makindajack/mobbin-skill?style=social)](https://github.com/makindajack/mobbin-skill)
+[![GitHub stars](https://img.shields.io/github/stars/makindajack/mobbin-skill?style=social)](https://github.com/chaliiwaui/mobbin-skill)
 
 Turn [Mobbin](https://mobbin.com)'s 300K+ screen library into structured UI research. Give your agent a research goal — it searches Mobbin, visually analyzes the screenshots, and returns pattern clusters, design system components, or competitive comparisons.
 
@@ -61,7 +61,7 @@ If you want the original skill as-is, install [`ddruids/mobbin-skill`](https://g
 2. **Drop the skill into your agent** — pick your tool from [`docs/install.md`](docs/install.md). For Claude Code:
 
    ```bash
-   npx skills add https://github.com/makindajack/mobbin-skill
+   npx skills add https://github.com/chaliiwaui/mobbin-skill
    ```
 
 3. **Try it** — paste a [Quick Start prompt](docs/quick-start.md) like:
@@ -73,7 +73,7 @@ If you want the original skill as-is, install [`ddruids/mobbin-skill`](https://g
 ## Credits
 
 - Original skill by **[ddruids/mobbin-skill](https://github.com/ddruids/mobbin-skill)**.
-- Fork maintained by **[@makindajack](https://github.com/makindajack)** — see [`CHANGELOG.md`](CHANGELOG.md) for what's been added.
+- Fork maintained by **[@chaliiwaui](https://github.com/chaliiwaui)** — see [`CHANGELOG.md`](CHANGELOG.md) for what's been added.
 - Powered by the [Mobbin MCP server](https://mobbin.com) and the [Model Context Protocol](https://modelcontextprotocol.io).
 - Contributions welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 

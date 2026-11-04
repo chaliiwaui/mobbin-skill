@@ -84,6 +84,6 @@ First release of this fork. Includes the original skill from upstream `ddruids/m
 ### Changed
 
 - **Platform Resolution** in `SKILL.md` now defaults to inference + a one-line disclosure (`Searching iOS (say "web" if you meant web apps)`) instead of asking. Added category-based defaults: consumer/mobile-first → ios; B2B/dashboard → web. Blocking questions reserved for truly ambiguous cases.
-- **Claude Code install URL** in `README.md` install table now points to this fork (`makindajack/mobbin-skill`) with a note pointing to upstream `ddruids/mobbin-skill` for the original.
+- **Claude Code install URL** in `README.md` install table now points to this fork (`chaliiwaui/mobbin-skill`) with a note pointing to upstream `ddruids/mobbin-skill` for the original.
 - **Quick Start example #1** expected-output line softened to "apps like Chime, Fi, or Revolut — actual results vary per query" so first-run users don't expect deterministic app names.
 - **`SKILL.md` `description` frontmatter** trimmed from ~80 words of trigger phrases to a focused one-liner.
