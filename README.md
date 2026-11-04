@@ -6,7 +6,7 @@
 [![Works with Claude Code](https://img.shields.io/badge/Claude%20Code-supported-d97706?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
 [![Works with Cursor](https://img.shields.io/badge/Cursor-supported-000000?logo=cursor&logoColor=white)](https://cursor.com)
 [![Works with VS Code Copilot](https://img.shields.io/badge/VS%20Code%20Copilot-supported-007ACC?logo=githubcopilot&logoColor=white)](https://code.visualstudio.com/docs/copilot/overview)
-[![GitHub stars](https://img.shields.io/github/stars/makindajack/mobbin-skill?style=social)](https://github.com/chaliiwaui/mobbin-skill)
+[![GitHub stars](https://img.shields.io/github/stars/chaliiwaui/mobbin-skill?style=social)](https://github.com/chaliiwaui/mobbin-skill)
 
 Turn [Mobbin](https://mobbin.com)'s 300K+ screen library into structured UI research. Give your agent a research goal — it searches Mobbin, visually analyzes the screenshots, and returns pattern clusters, design system components, or competitive comparisons.
 
